@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a0ad8f7-70a8-4a7f-9d08-911181d0a479" name="Default" comment="" />
+    <list default="true" id="7a0ad8f7-70a8-4a7f-9d08-911181d0a479" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gildedrose/service/BackstageUpdater.java" afterPath="$PROJECT_DIR$/src/main/java/com/gildedrose/service/BackstageUpdater.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,8 +39,8 @@
       <file leaf-file-name="AgedBrieUpdater.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gildedrose/service/AgedBrieUpdater.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+            <state relative-caret-position="84">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -58,11 +60,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
-              <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="32" />
+              <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -126,11 +128,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BackstageUpdater.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BackstageUpdater.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gildedrose/service/BackstageUpdater.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            <state relative-caret-position="84">
+              <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -167,11 +169,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/gildedrose/service/Updater.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gildedrose/service/NormalUpdater.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gildedrose/service/ConjuredUpdater.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/gildedrose/service/BackstageUpdater.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gildedrose/service/SulfurasUpdater.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gildedrose/service/AgedBrieUpdater.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gildedrose/service/UpdaterFactory.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gildedrose/service/BackstageUpdater.java" />
       </list>
     </option>
   </component>
@@ -308,7 +310,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.GildedRoseTest">
+  <component name="RunManager" selected="JUnit.TexttestFixture">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -472,8 +474,8 @@
     </list>
     <recent_temporary>
       <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.GildedRoseTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TexttestFixture" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TexttestFixture" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.GildedRoseTest" />
         <item index="2" class="java.lang.String" itemvalue="JUnit.GildedRoseTest.normalItemTest" />
       </list>
     </recent_temporary>
@@ -504,6 +506,9 @@
     <history-entry file="GildedRoseTest - 2019.12.05 at 13h 09m 38s.xml">
       <configuration name="GildedRoseTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="GildedRoseTest - 2019.12.05 at 15h 06m 39s.xml">
+      <configuration name="GildedRoseTest" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="GildedRoseTest_normalItemTest - 2019.12.05 at 13h 06m 21s.xml">
       <configuration name="GildedRoseTest.normalItemTest" configurationId="JUnit" />
     </history-entry>
@@ -514,6 +519,9 @@
       <configuration name="TexttestFixture" configurationId="JUnit" />
     </history-entry>
     <history-entry file="TexttestFixture - 2019.12.05 at 13h 09m 18s.xml">
+      <configuration name="TexttestFixture" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TexttestFixture - 2019.12.05 at 15h 06m 51s.xml">
       <configuration name="TexttestFixture" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -621,14 +629,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gildedrose/service/BackstageUpdater.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gildedrose/service/SulfurasUpdater.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -637,14 +637,6 @@
             <element signature="e#241#242#0" expanded="true" />
             <element signature="e#265#266#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gildedrose/service/AgedBrieUpdater.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -711,7 +703,23 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="32" />
+          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gildedrose/service/AgedBrieUpdater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gildedrose/service/BackstageUpdater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="29" />
           <folding />
         </state>
       </provider>

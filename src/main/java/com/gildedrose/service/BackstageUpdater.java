@@ -12,10 +12,10 @@ public class BackstageUpdater extends Updater {
         int qualityDelta = 1;
 
         if (item.sellIn < 10){
-            qualityDelta++;
+            qualityDelta = 2;
         }
         if (item.sellIn < 5){
-            qualityDelta++;
+            qualityDelta = 3;
         }
         return qualityDelta;
     }
