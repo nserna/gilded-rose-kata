@@ -1,0 +1,10 @@
+com\gildedrose\service\SulfurasUpdater.class
+com\gildedrose\util\DefaultHashMap.class
+com\gildedrose\service\BackstageUpdater.class
+com\gildedrose\service\AgedBrieUpdater.class
+com\gildedrose\service\ConjuredUpdater.class
+com\gildedrose\service\Updater.class
+com\gildedrose\GildedRose.class
+com\gildedrose\service\NormalUpdater.class
+com\gildedrose\service\UpdaterFactory.class
+com\gildedrose\Item.class
