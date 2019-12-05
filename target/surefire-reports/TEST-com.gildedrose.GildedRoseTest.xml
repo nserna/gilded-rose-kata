@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.gildedrose.GildedRoseTest" time="0.1" tests="5" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.gildedrose.GildedRoseTest" time="0.142" tests="5" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -19,7 +19,7 @@
     <property name="user.country" value="GB"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_131\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\LEO\AppData\Local\Temp\surefire8863076843463334587\surefirebooter3994372488159855478.jar C:\Users\LEO\AppData\Local\Temp\surefire8863076843463334587 2019-12-05T12-20-45_799-jvmRun1 surefire1497362502402687449tmp surefire_01379067947091456035tmp"/>
+    <property name="sun.java.command" value="C:\Users\LEO\AppData\Local\Temp\surefire6021300841565718877\surefirebooter6897627699380570769.jar C:\Users\LEO\AppData\Local\Temp\surefire6021300841565718877 2019-12-05T13-53-48_357-jvmRun1 surefire5982796045959695450tmp surefire_03355238265597633901tmp"/>
     <property name="surefire.test.class.path" value="D:\Noe\workspace\gildedrose\target\test-classes;D:\Noe\workspace\gildedrose\target\classes;C:\Users\LEO\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\LEO\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\LEO"/>
@@ -32,7 +32,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\LEO\AppData\Local\Temp\surefire8863076843463334587\surefirebooter3994372488159855478.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\LEO\AppData\Local\Temp\surefire6021300841565718877\surefirebooter6897627699380570769.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_131\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_131\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -62,7 +62,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="backstageItemTest" classname="com.gildedrose.GildedRoseTest" time="0.053"/>
+  <testcase name="backstageItemTest" classname="com.gildedrose.GildedRoseTest" time="0.063"/>
   <testcase name="normalItemTest" classname="com.gildedrose.GildedRoseTest" time="0"/>
   <testcase name="sulfurasItemTest" classname="com.gildedrose.GildedRoseTest" time="0"/>
   <testcase name="agedBrieItemTest" classname="com.gildedrose.GildedRoseTest" time="0"/>
